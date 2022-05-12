@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 import face_recognition
-numpy opencv-python-headless 
+ 
 
 video_capture = cv2.VideoCapture(0)
 
