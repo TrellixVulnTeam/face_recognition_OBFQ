@@ -1,5 +1,5 @@
 import numpy as np
-import cv2
+import opencv-python-headless
 import face_recognition
  
 
